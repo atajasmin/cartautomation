@@ -1,0 +1,12 @@
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\bin\Debug\netstandard2.0\CartAutomation.Data.Entities.deps.json
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\bin\Debug\netstandard2.0\CartAutomation.Data.Entities.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\bin\Debug\netstandard2.0\CartAutomation.Data.Entities.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\obj\Debug\netstandard2.0\CartAutomation.Data.Entities.csprojAssemblyReference.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\obj\Debug\netstandard2.0\CartAutomation.Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\obj\Debug\netstandard2.0\CartAutomation.Data.Entities.AssemblyInfoInputs.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\obj\Debug\netstandard2.0\CartAutomation.Data.Entities.AssemblyInfo.cs
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\obj\Debug\netstandard2.0\CartAutomation.Data.Entities.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\obj\Debug\netstandard2.0\CartAutomation.Data.Entities.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\bin\Debug\netstandard2.0\CartAutomation.Data.Base.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\bin\Debug\netstandard2.0\CartAutomation.Data.Base.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Entities\obj\Debug\netstandard2.0\CartAutomation.Data.Entities.csproj.CopyComplete

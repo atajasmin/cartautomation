@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CartAutomation.UI", "CartAutomation.UI", "{95B3786E-3E71-44BA-87B5-108547B0C606}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CartAutomation.Business", "CartAutomation.Business", "{416840CD-1E5D-4C3A-B993-F8B6406DD70F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CartAutomation.Data", "CartAutomation.Data", "{EDE45AD8-173A-467D-97F9-9536DE3BBBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartAutomation.Data.Entities", "CartAutomation.Data.Entities\CartAutomation.Data.Entities.csproj", "{09D3B08B-0400-4128-9EDF-2DD8AB7511A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartAutomation.Data.DataAccess", "CartAutomation.Data.DataAccess\CartAutomation.Data.DataAccess.csproj", "{A1703818-CDAF-4A39-8682-61E8F5540BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartAutomation.Data.Base", "CartAutomation.Data.Base\CartAutomation.Data.Base.csproj", "{A8FC4206-40B2-4EFE-889D-7C98DFA1F1A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartAutomation.Business.DataOperation", "CartAutomation.Business.DataOperation\CartAutomation.Business.DataOperation.csproj", "{8B64FD91-407B-4D5A-826B-ED368D01A6A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartAutomation.Business.CartOperation", "CartAutomation.Business.CartOperation\CartAutomation.Business.CartOperation.csproj", "{A8E6D006-6212-4413-BA47-46A0DA9CE79D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartAutomation.UI.WebAPI", "CartAutomation.Data.WebAPI\CartAutomation.UI.WebAPI.csproj", "{09EFEBEF-AC50-4BFD-B4DA-396FA736D9EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CartAutomation.TestIntegration", "CartAutomation.TestIntegration", "{7450FB0E-CECF-4536-A6D8-E3F2C8AB5A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartAutomation.TestIntegration.ConsoleApp", "CartAutomation.TestIntegration.ConsoleApp\CartAutomation.TestIntegration.ConsoleApp.csproj", "{261FD85A-3C01-4FB5-AC03-C4A4279D8B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartAutomation.Business.Core", "CartAutomation.Business.Core\CartAutomation.Business.Core.csproj", "{D0439AD9-540F-489B-A756-255B71D631B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D3B08B-0400-4128-9EDF-2DD8AB7511A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D3B08B-0400-4128-9EDF-2DD8AB7511A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D3B08B-0400-4128-9EDF-2DD8AB7511A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D3B08B-0400-4128-9EDF-2DD8AB7511A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1703818-CDAF-4A39-8682-61E8F5540BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1703818-CDAF-4A39-8682-61E8F5540BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1703818-CDAF-4A39-8682-61E8F5540BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1703818-CDAF-4A39-8682-61E8F5540BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8FC4206-40B2-4EFE-889D-7C98DFA1F1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FC4206-40B2-4EFE-889D-7C98DFA1F1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FC4206-40B2-4EFE-889D-7C98DFA1F1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FC4206-40B2-4EFE-889D-7C98DFA1F1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B64FD91-407B-4D5A-826B-ED368D01A6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B64FD91-407B-4D5A-826B-ED368D01A6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B64FD91-407B-4D5A-826B-ED368D01A6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B64FD91-407B-4D5A-826B-ED368D01A6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E6D006-6212-4413-BA47-46A0DA9CE79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E6D006-6212-4413-BA47-46A0DA9CE79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E6D006-6212-4413-BA47-46A0DA9CE79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E6D006-6212-4413-BA47-46A0DA9CE79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EFEBEF-AC50-4BFD-B4DA-396FA736D9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EFEBEF-AC50-4BFD-B4DA-396FA736D9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EFEBEF-AC50-4BFD-B4DA-396FA736D9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EFEBEF-AC50-4BFD-B4DA-396FA736D9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261FD85A-3C01-4FB5-AC03-C4A4279D8B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261FD85A-3C01-4FB5-AC03-C4A4279D8B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261FD85A-3C01-4FB5-AC03-C4A4279D8B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261FD85A-3C01-4FB5-AC03-C4A4279D8B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0439AD9-540F-489B-A756-255B71D631B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0439AD9-540F-489B-A756-255B71D631B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0439AD9-540F-489B-A756-255B71D631B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0439AD9-540F-489B-A756-255B71D631B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{09D3B08B-0400-4128-9EDF-2DD8AB7511A4} = {EDE45AD8-173A-467D-97F9-9536DE3BBBAF}
+		{A1703818-CDAF-4A39-8682-61E8F5540BF2} = {EDE45AD8-173A-467D-97F9-9536DE3BBBAF}
+		{A8FC4206-40B2-4EFE-889D-7C98DFA1F1A3} = {EDE45AD8-173A-467D-97F9-9536DE3BBBAF}
+		{8B64FD91-407B-4D5A-826B-ED368D01A6A4} = {416840CD-1E5D-4C3A-B993-F8B6406DD70F}
+		{A8E6D006-6212-4413-BA47-46A0DA9CE79D} = {416840CD-1E5D-4C3A-B993-F8B6406DD70F}
+		{09EFEBEF-AC50-4BFD-B4DA-396FA736D9EA} = {95B3786E-3E71-44BA-87B5-108547B0C606}
+		{261FD85A-3C01-4FB5-AC03-C4A4279D8B01} = {7450FB0E-CECF-4536-A6D8-E3F2C8AB5A9B}
+		{D0439AD9-540F-489B-A756-255B71D631B8} = {416840CD-1E5D-4C3A-B993-F8B6406DD70F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A594960-098D-4E87-86F2-B5E4CD150F63}
+	EndGlobalSection
+EndGlobal

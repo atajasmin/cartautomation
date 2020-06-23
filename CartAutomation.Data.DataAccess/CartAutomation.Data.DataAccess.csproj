@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CartAutomation.Data.Base\CartAutomation.Data.Base.csproj" />
+    <ProjectReference Include="..\CartAutomation.Data.Entities\CartAutomation.Data.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

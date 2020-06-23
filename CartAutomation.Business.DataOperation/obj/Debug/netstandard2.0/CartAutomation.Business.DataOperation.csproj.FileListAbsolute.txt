@@ -1,0 +1,16 @@
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\bin\Debug\netstandard2.0\CartAutomation.Business.DataOperation.deps.json
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\bin\Debug\netstandard2.0\CartAutomation.Business.DataOperation.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\bin\Debug\netstandard2.0\CartAutomation.Business.DataOperation.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\obj\Debug\netstandard2.0\CartAutomation.Business.DataOperation.csproj.CoreCompileInputs.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\obj\Debug\netstandard2.0\CartAutomation.Business.DataOperation.AssemblyInfoInputs.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\obj\Debug\netstandard2.0\CartAutomation.Business.DataOperation.AssemblyInfo.cs
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\obj\Debug\netstandard2.0\CartAutomation.Business.DataOperation.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\obj\Debug\netstandard2.0\CartAutomation.Business.DataOperation.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\bin\Debug\netstandard2.0\CartAutomation.Data.Base.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\bin\Debug\netstandard2.0\CartAutomation.Data.DataAccess.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\bin\Debug\netstandard2.0\CartAutomation.Data.Entities.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\bin\Debug\netstandard2.0\CartAutomation.Data.DataAccess.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\bin\Debug\netstandard2.0\CartAutomation.Data.Entities.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\bin\Debug\netstandard2.0\CartAutomation.Data.Base.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\obj\Debug\netstandard2.0\CartAutomation.Business.DataOperation.csprojAssemblyReference.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Business.DataOperation\obj\Debug\netstandard2.0\CartAutomation.Business.DataOperation.csproj.CopyComplete

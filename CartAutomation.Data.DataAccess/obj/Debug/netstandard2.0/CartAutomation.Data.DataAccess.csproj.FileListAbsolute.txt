@@ -1,0 +1,14 @@
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\bin\Debug\netstandard2.0\CartAutomation.Data.DataAccess.deps.json
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\bin\Debug\netstandard2.0\CartAutomation.Data.DataAccess.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\bin\Debug\netstandard2.0\CartAutomation.Data.DataAccess.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\obj\Debug\netstandard2.0\CartAutomation.Data.DataAccess.csprojAssemblyReference.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\obj\Debug\netstandard2.0\CartAutomation.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\obj\Debug\netstandard2.0\CartAutomation.Data.DataAccess.AssemblyInfoInputs.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\obj\Debug\netstandard2.0\CartAutomation.Data.DataAccess.AssemblyInfo.cs
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\obj\Debug\netstandard2.0\CartAutomation.Data.DataAccess.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\obj\Debug\netstandard2.0\CartAutomation.Data.DataAccess.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\bin\Debug\netstandard2.0\CartAutomation.Data.Base.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\bin\Debug\netstandard2.0\CartAutomation.Data.Entities.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\bin\Debug\netstandard2.0\CartAutomation.Data.Base.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\bin\Debug\netstandard2.0\CartAutomation.Data.Entities.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.DataAccess\obj\Debug\netstandard2.0\CartAutomation.Data.DataAccess.csproj.CopyComplete

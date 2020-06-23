@@ -1,0 +1,9 @@
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Base\bin\Debug\netstandard2.0\CartAutomation.Data.Base.deps.json
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Base\bin\Debug\netstandard2.0\CartAutomation.Data.Base.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Base\bin\Debug\netstandard2.0\CartAutomation.Data.Base.pdb
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Base\obj\Debug\netstandard2.0\CartAutomation.Data.Base.csprojAssemblyReference.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Base\obj\Debug\netstandard2.0\CartAutomation.Data.Base.csproj.CoreCompileInputs.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Base\obj\Debug\netstandard2.0\CartAutomation.Data.Base.AssemblyInfoInputs.cache
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Base\obj\Debug\netstandard2.0\CartAutomation.Data.Base.AssemblyInfo.cs
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Base\obj\Debug\netstandard2.0\CartAutomation.Data.Base.dll
+C:\Users\yasemin.ata\source\repos\CartAutomation\CartAutomation.Data.Base\obj\Debug\netstandard2.0\CartAutomation.Data.Base.pdb
